@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Figma Frames URL: [Figma File](https://www.figma.com/file/T0AodpMUPUNx040Mi1MzG9/PSD-to-HTML?node-id=0%3A1)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://slimbloodworth.github.io/PSD-to-HTML-conversion/)
 
 ## My process
 I began by pulling the PSD files into GIMP and pulling the assets - images, icons, colors, etc. I could not get the font information as it wasn't included in the original PSD. After gathering assets, I started working on the wireframes and layout.
