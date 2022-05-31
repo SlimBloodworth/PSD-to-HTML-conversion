@@ -111,7 +111,7 @@ li span {
 }
 
 .shadow-layer-container {
-    background-image: url("images/hero-shadow-layer.png");
+    background-image: url("/images/hero-shadow-layer.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 40vh;
